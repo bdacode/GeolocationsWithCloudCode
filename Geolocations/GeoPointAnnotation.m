@@ -3,7 +3,6 @@
 //  Geolocations
 //
 //  Created by Héctor Ramos on 8/2/12.
-//  Copyright (c) 2012 Parse, Inc. All rights reserved.
 //
 
 #import "GeoPointAnnotation.h"

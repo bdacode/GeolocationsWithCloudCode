@@ -3,7 +3,6 @@
 //  Geolocations
 //
 //  Created by Héctor Ramos on 7/31/12.
-//  Copyright (c) 2012 Parse, Inc. All rights reserved.
 //
 
 #import <MapKit/MapKit.h>
